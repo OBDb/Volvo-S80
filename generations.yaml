@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volvo_S80"
+
+generations:
+  - name: "Second Generation"
+    start_year: 2007
+    end_year: 2016
+    description: "On the EUCD platform with five- and six-cylinder engines and a V8."
